@@ -39,11 +39,11 @@ The data set contains to data sources, both stores as json files in S3
 # TBD
 
 ## Files in the project
-**Dwg.cfg** 	- configuration files
-**sql_queries.py** – python script to define the SQL queries for creating the tables and inserting date to the tables
-**create_tables.py** – python script to delete and create the tables in the database
-**erl.py** – script for the ETL process
-**Readme.md** – this documnatation file
+- **Dwg.cfg** 	- configuration files
+- **sql_queries.py** – python script to define the SQL queries for creating the tables and inserting date to the tables
+- **create_tables.py** – python script to delete and create the tables in the database
+- **etl.py** – script for the ETL process
+- **Readme.md** – this documnatation file
 
 ## How to run
 
